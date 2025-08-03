@@ -1,4 +1,6 @@
-# This page is dedicated to data analytics projects to adapt and resonate with new practices within industry especially on data analysis techniques within the scope of marketing & sales. To do so, I am working & planning to work on side projects on customer segmentation, pricing & elasticity modelling, marketing campaign analysis, sales forecasting, etc. Projects are listed chronologically:
-
-## * [Segmentation Analysis for Shopping Mall Customers](https://github.com/ABGokhan/my_pathway_to_marketing/blob/main/segmentation_analysis_mall_customers.ipynb)
-
+# This page is dedicated to data analytics projects to adapt and resonate with new analytics practices within the scope of marketing & sales. For this purpose, I am working & planning to work on side projects on these topics:
+* customer segmentation,
+- [Segmentation Analysis for Shopping Mall Customers](https://github.com/ABGokhan/my_pathway_to_marketing/blob/main/segmentation_analysis_mall_customers.ipynb)
+* pricing & elasticity modelling
+* marketing campaign analysis
+* sales forecasting
